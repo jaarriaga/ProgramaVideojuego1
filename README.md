@@ -16,6 +16,4 @@
 
 ### <img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="24"/> [Documentacion Tutorial 2 (PDF)](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/Tutorial2/Tutorial2Documentacion.pdf)
 
-https://youtu.be/aLnk9Uga1-o
-
 ---
