@@ -2,7 +2,7 @@
 
 ---
 
-# Unidad II Tutorial 1 (Dar click para acceder)
+# Tutorial 1 (Dar click para acceder)
 
 ### <img src="https://cdn-icons-png.flaticon.com/128/10090/10090287.png" width="24"/> [Video Tutorial 1](https://youtu.be/J7GEu1sZYv0)
 
@@ -10,7 +10,7 @@
 
 ---
 
-# Unidad II Tutorial 2 (Dar click para acceder)
+# Tutorial 2 (Dar click para acceder)
 
 ### <img src="https://cdn-icons-png.flaticon.com/128/10090/10090287.png" width="24"/> [Video Tutorial 2](https://youtu.be/aLnk9Uga1-o)
 
