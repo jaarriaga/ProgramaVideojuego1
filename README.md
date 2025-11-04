@@ -7,6 +7,7 @@
 ### <img src="https://cdn-icons-png.flaticon.com/128/10090/10090287.png" width="24"/> [Video Tutorial 1](https://youtu.be/J7GEu1sZYv0)
 
 ### <img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="24"/> [Documentacion Tutorial 1 (PDF)](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/Tutorial1/Tutorial1videojuegoUnity.pdf)
+<img src="https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/Tutorial1/Tutorial%201.png?raw=true" width="600">
 
 ---
 
@@ -15,6 +16,7 @@
 ### <img src="https://cdn-icons-png.flaticon.com/128/10090/10090287.png" width="24"/> [Video Tutorial 2](https://youtu.be/aLnk9Uga1-o)
 
 ### <img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="24"/> [Documentacion Tutorial 2 (PDF)](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/Tutorial2/Tutorial2Documentacion.pdf)
+<img src="https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/Tutorial2/Tutorial%202%20foto.png?raw=true" width="600">
 
 ---
 
