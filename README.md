@@ -25,7 +25,10 @@
 | <img src="https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/tutorial5/clicky%20crates.png?raw=true" width="300"> | <img src="https://cdn-icons-png.flaticon.com/128/10090/10090287.png" width="28"/> **[Video Tutorial 5](https://youtu.be/-2hxoSBYhQo)** <br><br> <img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> **[Documentación Tutorial 5 (PDF)](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/tutorial5/Tutorial5Documentacion.pdf)** |
 
 ---
+<br>
 
+---
+<br>
 # Unidad II tutoriales
 
 ---
