@@ -26,4 +26,4 @@
 
 ---
 
-[![Ver Video Nivel 1](https://chatgpt.com/backend-api/estuary/content?id=file_00000000b6c0722f95e783d26bc12cf0&ts=489693&p=fs&cid=1&sig=991edc3acd2d8cb2eaef5b7cbd4102396bd42f2469e74dbf15189e56f3ad291f&v=0)](https://youtu.be/aVc-NSes3kM)
+[![Ver Video Nivel 1](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ProyectoVideojuego3D/TestNivel1.png?raw=true)](https://youtu.be/aVc-NSes3kM)
