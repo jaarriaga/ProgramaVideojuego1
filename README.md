@@ -39,4 +39,5 @@
 [![Prueba Multiplataforma](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ProyectoVideojuego3D/windows.jpg)](https://youtu.be/FAYjiaxsAOI)
 
 ## Documento PDF Modelo de Negocio
-[![Prueba Multiplataforma](https://docs.google.com/document/d/18ulThalDkBMrpLAhgNYvq0jtSnMfHveK/edit?usp=sharing&ouid=115753835438823514056&rtpof=true&sd=true)](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ModeloDeNegocios/ModeloDeNegocioVideojuego.pdf)
+[![Prueba Multiplataforma](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ProyectoVideojuego3D/windows.jpg)](https://docs.google.com/document/d/18ulThalDkBMrpLAhgNYvq0jtSnMfHveK/edit?usp=sharing&ouid=115753835438823514056&rtpof=true&sd=true)
+
