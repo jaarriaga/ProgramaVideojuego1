@@ -35,5 +35,8 @@
 
 [![juega en la web](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ProyectoVideojuego3D/WebGLitchio.jpg?raw=true)](https://jaarriaga.itch.io/test-de-conduccin)
 
-video test windows android y WebGL
+## video test windows android y WebGL
 [![Prueba Multiplataforma](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ProyectoVideojuego3D/windows.jpg)](https://youtu.be/FAYjiaxsAOI)
+
+## Documento PDF Modelo de Negocio
+[![Prueba Multiplataforma](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ModeloDeNegocios/pfdImagen.jpg?raw=true)](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ModeloDeNegocios/ModeloDeNegocioVideojuego.pdf)
